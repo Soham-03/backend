@@ -4,3 +4,4 @@ numpy==1.26.4
 Pillow==10.2.0
 plantcv==4.2.1
 Requests==2.31.0
+gunicorn
